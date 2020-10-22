@@ -1,3 +1,11 @@
+"""
+Author : Usama Fayyaz
+email : usamafiaz1453@gmail.com
+Date : 22/10?2020
+"""
+
+
+
 class LinkedQueue:
     class _Node:
         __slots__ = "_element", "_next"

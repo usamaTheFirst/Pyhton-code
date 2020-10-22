@@ -1,3 +1,10 @@
+"""
+Author : Usama Fayyaz
+email : usamafiaz1453@gmail.com
+Date : 22/10?2020
+"""
+
+
 class LinkedSTack:
     # nested class for a node in stack
     class _Node:
