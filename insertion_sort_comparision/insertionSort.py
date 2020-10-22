@@ -1,3 +1,9 @@
+"""
+Author : Usama Fayyaz
+email : usamafiaz1453@gmail.com
+Date : 22/10?2020
+"""
+
 import random, time
 import matplotlib.pyplot as plt
 from matplotlib import style
